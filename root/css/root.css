@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+:root{
+    --blue: #439DB7;
+    --yellow: #FED336;
+    --orange: #F47542;
+    --green: #2D8E8B;
+}
+
+
+
+
