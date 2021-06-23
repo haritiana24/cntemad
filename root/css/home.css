@@ -1,0 +1,121 @@
+.miray img{
+    height: 30%;
+    width: 30%;
+    margin-left: 35%;
+}
+.reussir p{
+    margin-left: 25%;
+    font-size: 100%;
+    font-style:oblique;
+    font-weight: bold;
+    text-decoration:overline;
+    text-shadow: 5px 5px 5px #F47542;
+}
+.siege1{
+    width: 80%;
+    margin: 30px;
+    margin-left: 35px;
+    padding: 5px;
+    margin-top: 10%;
+}
+.photo1{
+    margin:0 30% -12%;
+    margin-top: 3%;
+    padding: 5%;
+    width: 40%;
+    height: 75px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+    background-image: url(../images/common/siege.jpeg);
+    background-size: cover;
+}
+.constitution{
+    border: solid 1px black;
+    padding: 5%;
+    padding-top: 15%;
+}
+.constitution p{
+    text-align: justify;
+}
+.constitution button{
+margin-left: 35%;
+font-weight: bold;
+width: 30%;
+margin-top: 3%;
+padding: 3px;
+background-color: #439DB7;
+border: solid 1px black
+}
+.siege2{
+    width: 80%;
+    margin: 30px;
+    margin-left: 35px;
+    padding: 5px;
+    margin-top: 10%;
+}
+.photo2{
+    margin:0 30% -12%;
+    margin-top: 3%;
+    padding: 5%;
+    width: 40%;
+    height: 75px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+    background-image: url(../images/common/siege.jpeg);
+    background-size: cover;
+}
+.droit{
+    border: solid 1px black;
+    padding: 5%;
+    padding-top: 15%;
+}
+.droit p{
+        text-align: justify;
+}
+.droit button{
+    margin-left: 35%;
+    font-weight: bold;
+    width: 30%;
+    margin-top: 3%;
+    padding: 3px;
+    background-color: #439DB7;
+    border: solid 1px black
+}
+.siege3{
+    width: 80%;
+    margin: 30px;
+    margin-left: 35px;
+    padding: 5px;
+    margin-top: 10%;
+}
+.photo3{
+    margin:0 30% -12%;
+    margin-top: 3%;
+    padding: 5%;
+    width: 40%;
+    height: 75px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+    background-image: url(../images/common/siege.jpeg);
+    background-size: cover;
+}
+.communication{
+    border: solid 1px black;
+    padding: 5%;
+    padding-top: 15%;
+}
+.communication p{
+    text-align: justify;
+}
+.communication button{
+    margin-left: 35%;
+    font-weight: bold;
+    width: 30%;
+    margin-top: 3%;
+    padding: 3px;
+    background-color: #439DB7;
+    border: solid 1px black
+}
