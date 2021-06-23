@@ -1,18 +1,18 @@
+.im img{
+	width: 100%;
+}
 
-h1{
+.img{
 	text-align: center;
 	color: var(--orange);
 	padding-bottom: 20px;
 }
 
-img{
-	width: 100%;
-}
 
 .im{
 	float: left;
-	width: 40%;
 	margin-right: 40px;
+    width: 40%; 
 }
 
 .para{
