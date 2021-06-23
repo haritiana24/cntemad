@@ -1,0 +1,25 @@
+.im img{
+	width: 100%;
+}
+
+.img{
+	text-align: center;
+	color: var(--orange);
+	padding-bottom: 20px;
+}
+
+
+.im{
+	float: left;
+	margin-right: 40px;
+    width: 40%; 
+}
+
+.para{
+	padding-left: 40px;
+	color: var(--green);
+}
+
+.Creation, .Conference, .Participation-orange, .Participation-sma, .Participation-bat, .Organisation, footer{
+	clear: both;
+}
