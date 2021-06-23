@@ -1,0 +1,40 @@
+.content{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    clear: both;
+
+    }
+.card{
+        width: 274px;
+        height: 350px;
+        margin: 20px;
+        background-color:  #2D8E8B;
+        text-align: center;
+        display: block;
+        top:0;bottom:0;left:0;right:0;
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;
+        border-radius: 1px;
+        box-shadow: 0 16px 30px rgb(28, 83, 82);
+        transition: 0.5s ease-in;
+        color: #FED336;
+        line-height: 40px;
+    }
+
+.card:hover{
+        transform: scale(1.1);
+        transition-duration: 0.3s
+    }
+.pdp{
+        width: 80px;
+        height:85px;
+        border-radius: 50%;
+        border: 2px #FED336 double;
+        
+    
+    }
