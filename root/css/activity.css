@@ -1,23 +1,23 @@
-
-h1{
-	text-align: center;
-	color: #F47542;
-	padding-bottom: 20px;
-}
-
-img{
+.im img{
 	width: 100%;
 }
 
+.img{
+	text-align: center;
+	color: var(--orange);
+	padding-bottom: 20px;
+}
+
+
 .im{
 	float: left;
-	width: 40%;
 	margin-right: 40px;
+    width: 40%; 
 }
 
 .para{
 	padding-left: 40px;
-	color: #2D8E8B;
+	color: var(--green);
 }
 
 .Creation, .Conference, .Participation-orange, .Participation-sma, .Participation-bat, .Organisation, footer{
