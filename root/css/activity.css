@@ -1,7 +1,7 @@
 
 h1{
 	text-align: center;
-	color: #F47542;
+	color: var(--orange);
 	padding-bottom: 20px;
 }
 
@@ -17,7 +17,7 @@ img{
 
 .para{
 	padding-left: 40px;
-	color: #2D8E8B;
+	color: var(--green);
 }
 
 .Creation, .Conference, .Participation-orange, .Participation-sma, .Participation-bat, .Organisation, footer{
