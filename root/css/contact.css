@@ -1,0 +1,27 @@
+
+.form-group .btn{
+    
+    background-color:#439DB7 ;
+
+}
+.form-contact{
+    margin-left: 3%;
+
+
+}
+.form-control{
+    border-radius: 15px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    
+}
+.Msg{
+    border-radius: 15px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    width: 90%;
+}

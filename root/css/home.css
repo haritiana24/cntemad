@@ -1,0 +1,219 @@
+
+.miray img{
+    height: 30%;
+    width: 30%;
+    margin-left: 35%;
+}
+.reussir p{
+    margin-left: 25%;
+    font-size: 100%;
+    font-style:oblique;
+    font-weight: bold;
+    text-decoration:overline;
+    text-shadow: 5px 5px 5px #F47542;
+}
+.siege1{
+    width: 80%;
+    margin: 30px;
+    margin-left: 35px;
+    padding: 5px;
+    margin-top: 10%;
+}
+.photo1{
+    margin:0 30% -12%;
+    margin-top: 3%;
+    padding: 5%;
+    width: 40%;
+    height: 75px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+    background-image: url(../images/common/siege.jpeg);
+    background-size: cover;
+}
+.constitution{
+    border: solid 1px black;
+    padding: 5%;
+    padding-top: 15%;
+}
+.constitution p{
+    text-align: justify;
+}
+.constitution button{
+margin-left: 35%;
+font-weight: bold;
+width: 30%;
+margin-top: 3%;
+padding: 3px;
+background-color: #439DB7;
+border: solid 1px black
+}
+.siege2{
+    width: 80%;
+    margin: 30px;
+    margin-left: 35px;
+    padding: 5px;
+    margin-top: 10%;
+}
+.photo2{
+    margin:0 30% -12%;
+    margin-top: 3%;
+    padding: 5%;
+    width: 40%;
+    height: 75px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+    background-image: url(../images/common/siege.jpeg);
+    background-size: cover;
+}
+.droit{
+    border: solid 1px black;
+    padding: 5%;
+    padding-top: 15%;
+}
+.droit p{
+        text-align: justify;
+}
+.droit button{
+    margin-left: 35%;
+    font-weight: bold;
+    width: 30%;
+    margin-top: 3%;
+    padding: 3px;
+    background-color: #439DB7;
+    border: solid 1px black
+}
+.siege3{
+    width: 80%;
+    margin: 30px;
+    margin-left: 35px;
+    padding: 5px;
+    margin-top: 10%;
+}
+.photo3{
+    margin:0 30% -12%;
+    margin-top: 3%;
+    padding: 5%;
+    width: 40%;
+    height: 75px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+    background-image: url(../images/common/siege.jpeg);
+    background-size: cover;
+}
+.communication{
+    border: solid 1px black;
+    padding: 5%;
+    padding-top: 15%;
+}
+.communication p{
+    text-align: justify;
+}
+.communication button{
+    margin-left: 35%;
+    font-weight: bold;
+    width: 30%;
+    margin-top: 3%;
+    padding: 3px;
+    background-color: #439DB7;
+    border: solid 1px black
+}
+footer{
+    background-color: rgb(99, 109, 108);
+    color: rgb(255, 255, 255);
+    font-size: 9px;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    box-sizing: border-box;
+    line-height: 15px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: inherit
+    
+}
+
+.footer-links ul>li{
+    display: inline-flex;
+    margin-top: 8px;
+}
+.footer-links ul>li>a{
+    padding: 0 7px 0 7px;
+    border-radius: 2px
+}
+.footer-links a:hover{
+    background-color: rgb(255, 255, 255);
+    color:rgb(99, 109, 108)
+}
+.foot{
+    display: inline-flexbox;
+    padding-top: 18px;
+    text-align: center;
+    
+}
+.num{
+    margin-right: 20px;
+    margin-left: 17px;
+    padding-left: 7px;
+    text-align: left
+}
+.copyright{
+    font-size: 6px;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+footer ul li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+footer ul li{
+    list-style: none;
+    padding: 1px;
+}
+
+.social-network{
+    margin-right: 20px;
+    margin-left: 17px;
+    padding-left: 7px;
+    text-align: left
+}
+
+.contact{
+    text-decoration: underline;
+    margin-right: 20px;
+    margin-left: 17px;
+    padding-left: 7px;
+    text-align: left
+}
+label{
+    font-size: 10px;
+    padding-bottom: 5px
+}
+@media screen and (min-width:740px)
+{
+ footer{
+     font-size: 14px;
+     height: 140px;
+
+ }
+ .foot{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ .social-network, .num{
+margin-left: 60px
+ }
+ .copyright{
+     font-size: 10px;
+     margin-top: 20px
+ }
+}
+
